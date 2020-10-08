@@ -18,11 +18,11 @@ body {
 
 .content {
     padding-top: 30px;
-    padding-bottom: 30px;
 }
 
 .container {
     margin-top: 50px;
+    margin-bottom: 100px;
 }
 .btn {
     background-color: tomato;
